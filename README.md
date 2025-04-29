@@ -32,12 +32,19 @@ Sou um desenvolvedor com sólida experiência em **.NET (C#)** e **Angular**, ap
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbrito1987&theme=radical" />
 </p>
 
+<h2 align="center">Minha atividade no GitHub</h2>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielbrito1987&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
+  </a>
+</p>
+
 ---
 
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brito-1ab1b476/)
-- 📧 Email: [seu@email.com](mailto:damasceno1871@gmail.com)
+- 📧 Email: [damasceno1871@gmail.com](mailto:damasceno1871@gmail.com)
 
 ---
 
